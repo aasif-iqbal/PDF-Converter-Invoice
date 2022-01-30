@@ -59,7 +59,7 @@ class InvoiceController extends CI_Controller {
         $pdfTemp .= "<th style='border:1px solid black;
         border-collapse: collapse;';>Id</th>";
         $pdfTemp .= "<th style='border:1px solid black;
-        border-collapse: collapse;';>Product Id</th>";
+        border-collapse: collapse;';>Product Name</th>";
         $pdfTemp .= "<th style='border:1px solid black;
         border-collapse: collapse;';>MRP</th>";
         $pdfTemp .= "<th style='border:1px solid black;
